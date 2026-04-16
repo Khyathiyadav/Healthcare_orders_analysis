@@ -75,7 +75,7 @@ The dataset consists of multiple interconnected tables:
 ---
 ### 📸 IMAGE 
 <img width="1373" height="772" alt="Screenshot 2026-04-16 134311" src="https://github.com/user-attachments/assets/e7503137-0e51-4b3c-98f8-d3e6ccb4911c" />
----
+
 ## 📊 Key Insights
 - A few product categories contribute to the majority of sales  
 - Certain states have significantly higher order volumes  
